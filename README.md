@@ -1,6 +1,7 @@
 # Rushikesh More
 
 Shopify architect building AI-native tools at the intersection of ecommerce and agent infrastructure.
+I lead a frontend team that builds and maintains Shopify storefronts for high-growth brands.
 
 ## Current Projects
 
@@ -8,6 +9,10 @@ Shopify architect building AI-native tools at the intersection of ecommerce and 
 - 🧠 [AgentKarma](https://github.com/rushikeshmore/agent-karma) - Trust scores for AI agent wallets. Blockchain data → behavioral scoring → one-line SDK.
 - 🗜️ [DataCortex](https://github.com/rushikeshmore/DataCortex) - Lossless compression engine in Rust. Beats zstd-19 on text. Built from scratch.
 - ⚡ [htbuild](https://github.com/thedivspace/htbuild) - Component-driven HTML with zero deployment overhead.
+
+## Builder at Heart
+
+I've always built things. Then Claude Code and Codex showed up — now I ship in days what used to take weeks. Same builder, different velocity.
 
 ## Stack
 
