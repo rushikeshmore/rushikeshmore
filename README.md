@@ -3,11 +3,14 @@
 Shopify architect building AI-native tools at the intersection of ecommerce and agent infrastructure.
 I lead a frontend team that builds and maintains Shopify storefronts for high-growth brands.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,nodejs,react,html,css,git,github)](https://skillicons.dev)
-
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-5C5C5C?style=flat)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-5C5C5C?style=flat-square)
 
 ## Current Projects
 
