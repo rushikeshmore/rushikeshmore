@@ -4,10 +4,10 @@ Shopify architect building AI-native tools at the intersection of ecommerce and 
 
 ## Current Projects
 
-- 🧠 [AgentKarma](https://github.com/rushikeshmore/agent-karma) — Trust scores for AI agent wallets. Blockchain data → behavioral scoring → one-line SDK.
-- 🔍 [CodeCortex](https://github.com/rushikeshmore/CodeCortex) — Codebase knowledge layer for AI agents. 27 languages, 14 MCP tools, ~80% fewer tokens.
-- 🗜️ [DataCortex](https://github.com/rushikeshmore/DataCortex) — Lossless compression engine in Rust. Beats zstd-19 on text. Built from scratch.
-- ⚡ [htbuild](https://github.com/thedivspace/htbuild) — Component-driven HTML with zero deployment overhead.
+- 🔍 [CodeCortex](https://github.com/rushikeshmore/CodeCortex) - Codebase knowledge layer for AI agents. 27 languages, 14 MCP tools, ~80% fewer tokens.
+- 🧠 [AgentKarma](https://github.com/rushikeshmore/agent-karma) - Trust scores for AI agent wallets. Blockchain data → behavioral scoring → one-line SDK.
+- 🗜️ [DataCortex](https://github.com/rushikeshmore/DataCortex) - Lossless compression engine in Rust. Beats zstd-19 on text. Built from scratch.
+- ⚡ [htbuild](https://github.com/thedivspace/htbuild) - Component-driven HTML with zero deployment overhead.
 
 ## Stack
 
