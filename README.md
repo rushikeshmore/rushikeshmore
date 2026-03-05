@@ -12,7 +12,7 @@ I lead a frontend team that builds and maintains Shopify storefronts for high-gr
 
 ## Builder at Heart
 
-I've always built things. Then Claude Code and Codex showed up — now I ship in days what used to take weeks. Same builder, different velocity.
+Always been a builder. Claude Code and Codex are the steroids — same mind, illegal gains.
 
 ## Stack
 
