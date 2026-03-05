@@ -21,6 +21,10 @@ Pre-digests repos into structured knowledge. 27 languages, 14 MCP tools, ~80% fe
 Beats zstd-19 on text. Built from scratch — no zlib, no LZ77 shortcuts.
 `Rust` · `ANS` · `Context Modeling`
 
+**[htbuild](https://github.com/thedivspace/htbuild)** — HTML framework with zero deployment overhead.
+Write structured, component-driven HTML without a build step.
+`JavaScript` · `Frontend` · `Zero-config`
+
 ---
 
 ## Stack
