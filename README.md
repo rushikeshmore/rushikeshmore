@@ -12,16 +12,16 @@ I lead a frontend team that builds and maintains Shopify storefronts for high-gr
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-5C5C5C?style=flat-square)
 
+### Builder at Heart
+
+I'm a builder at heart — always have been. Now with Claude Code & Codex, my code is basically on steroids. Shipping more, moving faster. It's a good time to be a builder.
+
 ## Current Projects
 
 - 🧠 **[CodeCortex](https://github.com/rushikeshmore/CodeCortex)** - Codebase knowledge layer for AI agents. 27 languages, 14 MCP tools, ~80% fewer tokens.
 - ⚖️ **[AgentKarma](https://github.com/rushikeshmore/agent-karma)** - Trust scores for AI agent wallets. Blockchain data → behavioral scoring → one-line SDK.
 - 🔍 **[DataCortex](https://github.com/rushikeshmore/DataCortex)** - Lossless compression engine in Rust. Beats zstd-19 on text. Built from scratch.
 - ⚡ **[htbuild](https://github.com/thedivspace/htbuild)** - Component-driven HTML with zero deployment overhead.
-
-## Builder at Heart
-
-I'm a builder at heart — always have been. Now with Claude Code & Codex, my code is basically on steroids. Shipping more, moving faster. It's a good time to be a builder.
 
 ## Links
 
