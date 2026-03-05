@@ -23,6 +23,10 @@ I'm a builder at heart — always have been. Now with Claude Code & Codex, my co
 - 🔍 **[DataCortex](https://github.com/rushikeshmore/DataCortex)** - Lossless compression engine in Rust. Beats zstd-19 on text. Built from scratch.
 - ⚡ **[htbuild](https://github.com/thedivspace/htbuild)** - Component-driven HTML with zero deployment overhead.
 
+## Research
+
+**[BFAI: Brain-Forest Adaptive Intelligence](https://zenodo.org/records/18310306)** - A position paper on biomimetic AI architecture. It combines brain-inspired design, forest ecosystem patterns, and Ramanujan mathematics for energy-efficient AI.
+
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikeshmore) [![Website](https://img.shields.io/badge/rushimore.com-000000?style=flat&logo=safari&logoColor=white)](https://rushimore.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshmore25/) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/rushikeshmore21) [![Website](https://img.shields.io/badge/rushimore.com-000000?style=flat&logo=safari&logoColor=white)](https://rushimore.com)
