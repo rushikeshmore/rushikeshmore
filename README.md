@@ -30,4 +30,4 @@ I'm a builder at heart — always have been. Now with Claude Code & Codex, my co
 
 ## Links
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/rushikeshmore21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshmore25/) [![Website](https://img.shields.io/badge/rushimore.com-000000?style=flat&logo=safari&logoColor=white)](https://rushimore.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/rushikeshmore21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshmore27/) [![Website](https://img.shields.io/badge/rushimore.com-000000?style=flat&logo=safari&logoColor=white)](https://rushimore.com)
