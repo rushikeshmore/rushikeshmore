@@ -21,6 +21,7 @@ I'm a builder at heart — always have been. Now with Claude Code & Codex, my co
 - 🧠 **[CodeCortex](https://github.com/rushikeshmore/CodeCortex)** - Codebase knowledge layer for AI agents. 27 languages, 14 MCP tools, ~80% fewer tokens.
 - ⚖️ **[AgentKarma](https://github.com/rushikeshmore/agent-karma)** - Trust scores for AI agent wallets. Blockchain data → behavioral scoring → one-line SDK.
 - 🔍 **[DataCortex](https://github.com/rushikeshmore/DataCortex)** - Lossless compression engine in Rust. Beats zstd-19 on text. Built from scratch.
+- ⛺️ **[basecamp-mcp](https://github.com/rushikeshmore/basecamp-mcp)** - Python MCP server that gives Claude Code native Basecamp 3 tools - assignments, todos, messages, search
 - ⚡ **[htbuild](https://github.com/thedivspace/htbuild)** - Component-driven HTML with zero deployment overhead.
 
 
