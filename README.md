@@ -8,6 +8,8 @@ I lead a frontend team that builds and maintains Shopify storefronts for high-gr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-5C5C5C?style=flat-square)
@@ -18,10 +20,11 @@ I'm a builder at heart — always have been. Now with Claude Code & Codex, my co
 
 ## Current Projects
 
-- 🧠 **[CodeCortex](https://github.com/rushikeshmore/CodeCortex)** - Codebase knowledge layer for AI agents. 27 languages, 14 MCP tools, ~80% fewer tokens.
-- ⚖️ **[AgentKarma](https://github.com/rushikeshmore/agent-karma)** - Trust scores for AI agent wallets. Blockchain data → behavioral scoring → one-line SDK.
-- 🔍 **[DataCortex](https://github.com/rushikeshmore/DataCortex)** - Lossless compression engine in Rust. Beats zstd-19 on text. Built from scratch.
-- ⛺️ **[basecamp-mcp](https://github.com/rushikeshmore/basecamp-mcp)** - Python MCP server that gives Claude Code native Basecamp 3 tools - assignments, todos, messages, search
+- 🧠 **[CodeCortex](https://github.com/rushikeshmore/CodeCortex)** - Persistent codebase knowledge layer for AI agents. 27 languages, MCP-first, ~80% fewer tokens. 1,089+ weekly npm downloads.
+- ⚖️ **[AgentKarma](https://github.com/rushikeshmore/agent-karma)** - Trust scores for AI agent wallets. On-chain behavioral scoring across Ethereum, Base & Arbitrum. 13 API endpoints, 6 MCP tools, TypeScript SDK. [Live](https://agentkarma.dev)
+- 🧩 **[PartnerAgent](https://github.com/rushikeshmore/partner-agent)** - MCP server for Shopify Partner API. 25 tools for AI-powered app analytics — MRR, churn, retention cohorts, merchant health. Open-source HeyMantle alternative.
+- 🔍 **[DataCortex](https://github.com/rushikeshmore/DataCortex)** - Next-gen lossless text compression in Rust. 13 context models, 4-stage APM. Beats zstd-19 on enwik8. NDJSON at 0.41 bpb.
+- ⛺️ **[basecamp-mcp](https://github.com/rushikeshmore/basecamp-mcp)** - Python MCP server that gives Claude Code native Basecamp 3 tools — assignments, todos, messages, search.
 - ⚡ **[htbuild](https://github.com/thedivspace/htbuild)** - Component-driven HTML with zero deployment overhead.
 
 
