@@ -26,7 +26,7 @@ I'm a builder at heart — always have been. Now with Claude Code & Codex, my co
 - 🔍 **[DataCortex](https://github.com/rushikeshmore/DataCortex)** - Next-gen lossless text compression in Rust. 13 context models, 4-stage APM. Beats zstd-19 on enwik8. NDJSON at 0.41 bpb.
 - ⛺️ **[basecamp-mcp](https://github.com/rushikeshmore/basecamp-mcp)** - Python MCP server that gives Claude Code native Basecamp 3 tools — assignments, todos, messages, search.
 
-### legacy
+#### Legacy
 - 🗜️ **[general-compression-rust](https://github.com/rushikeshmore/general-compression-rust)** - General-purpose lossless text compression engine in Rust. Context mixing + PPM + DMC + GRU neural mixer.
 - ⚡ **[htbuild](https://github.com/thedivspace/htbuild)** - Component-driven HTML with zero deployment overhead.
 
