@@ -22,7 +22,7 @@ I'm a builder at heart — always have been. Now with Claude Code & Codex, my co
 
 - 🧠 **[CodeCortex](https://github.com/rushikeshmore/CodeCortex)** - Persistent codebase knowledge layer for AI agents. 27 languages, MCP-first, ~80% fewer tokens. 1,089+ weekly npm downloads.
 - ⚖️ **[AgentKarma](https://github.com/rushikeshmore/agent-karma)** - Trust scores for AI agent wallets. On-chain behavioral scoring across Ethereum, Base & Arbitrum. 13 API endpoints, 6 MCP tools, TypeScript SDK. [Live](https://agentkarma.dev)
-- 🧩 **[PartnerAgent](https://github.com/rushikeshmore/partner-agent)** - MCP server for Shopify Partner API. 25 tools for AI-powered app analytics — MRR, churn, retention cohorts, merchant health. Open-source HeyMantle alternative.
+- 🧩 **[PartnerAgent](https://github.com/rushikeshmore/partner-agent)** - MCP server for Shopify Partner API. 25 tools for AI-powered app analytics — MRR, churn, retention cohorts, merchant health.
 - 🔍 **[DataCortex](https://github.com/rushikeshmore/DataCortex)** - Next-gen lossless text compression in Rust. 13 context models, 4-stage APM. Beats zstd-19 on enwik8. NDJSON at 0.41 bpb.
 - ⛺️ **[basecamp-mcp](https://github.com/rushikeshmore/basecamp-mcp)** - Python MCP server that gives Claude Code native Basecamp 3 tools — assignments, todos, messages, search.
 - 📋 **[PR Monitor](https://github.com/rushikeshmore/pr-monitor)** - Markdown-based PR tracking system for open source contributors. Action cadence rules, follow-up templates, stale PR protocol.
